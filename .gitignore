@@ -1,0 +1,14 @@
+# build
+**/build-agentcube/
+**/doomgeneric-agentcube
+**/*.o
+**/.DS_Store
+
+# game data (illegal to redistribute commercial IWADs)
+wads/
+*.wad
+*.WAD
+
+# editor / env
+.venv/
+*.log
